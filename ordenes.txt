@@ -1,0 +1,5 @@
+101,Juan Perez,3001234567,Camisa,3,Lavado,16/09/2026,17/09/2026,Pendiente,15000,No pagado
+102,Maria Gonzalez,3012345678,Pantalon,2,Planchado,16/09/2026,18/09/2026,Entregado,10000,Pagado
+103,Carlos Ramirez,3023456789,Chaqueta,1,Lavaseco,15/09/2026,19/09/2026,En proceso,25000,No pagado
+104,Laura Martinez,3034567890,Vestido,2,Lavaseco,16/09/2026,20/09/2026,Entregado,40000,Pagado
+105,Andres Rodriguez,3045678901,Cobija,1,Lavado,14/09/2026,18/09/2026,Pendiente,30000,No pagado
